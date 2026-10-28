@@ -22,8 +22,7 @@ A small Windows desktop app that generates random passwords locally. It lets you
 2. Open PowerShell in the folder containing the file.
 3. Run:
 
-   ```powershell
-  .\PassGenerator.ps1
+   ```powershell  .\PassGenerator.ps1
    ```
 
 You can also right-click the `.ps1` file and choose **Run with PowerShell**. The script does not need administrator rights.
